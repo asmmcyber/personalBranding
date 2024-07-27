@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+}
+hr{
+    border: solid black 2px;
+}
+.Tech{
+    display: flex;
+}
+.projects, .posts {
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
