@@ -30,5 +30,8 @@ footer{
        justify-content: center;
        text-align: center;
     }
+    img{
+        height: max-content;
+    }
 }
 
