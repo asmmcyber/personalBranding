@@ -4,6 +4,9 @@ body{
 hr{
     border: solid black 2px;
 }
+h2{
+    text-align: center;
+}
 .Tech{
     display: flex;
 }
@@ -15,4 +18,19 @@ footer{
     background-color: black;
     text-align: center;
     color: aliceblue;
+}
+@media(max-width: 480px){
+    body{
+        display: block;
+    }
+    .Tech{
+        display: block;
+    }
+    .posts{
+        display: block;
+    }
+    .home{
+       justify-content: center;
+       text-align: center;
+    }
 }
