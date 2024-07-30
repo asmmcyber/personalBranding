@@ -19,10 +19,7 @@ footer{
     text-align: center;
     color: aliceblue;
 }
-@media only screen and (max-width: 450px){
-    body{
-        display: block;
-    }
+@media(max-width: 480px){
     .Tech{
         display: block;
     }
@@ -34,3 +31,4 @@ footer{
        text-align: center;
     }
 }
+
