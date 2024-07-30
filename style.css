@@ -19,11 +19,11 @@ footer{
     text-align: center;
     color: aliceblue;
 }
-@media(max-width: 480px){
+@media(max-width: 1130px){  /* Adjusted for iPhone 15 Pro Max */
     .Tech{
         display: block;
     }
-    .posts{
+    .projects, .posts{
         display: block;
     }
     .home{
