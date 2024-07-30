@@ -20,9 +20,6 @@ footer{
     color: aliceblue;
 }
 @media only screen and (max-width: 450px){
-    body{
-        display: block;
-    }
     .Tech{
         display: block;
     }
