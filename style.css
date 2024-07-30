@@ -19,7 +19,7 @@ footer{
     text-align: center;
     color: aliceblue;
 }
-@media(max-width: 600px){
+@media(max-width: 800px){
     body{
         display: block;
     }
