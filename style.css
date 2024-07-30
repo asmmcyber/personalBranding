@@ -19,7 +19,7 @@ footer{
     text-align: center;
     color: aliceblue;
 }
-@media(max-width: 800px){
+@media only screen and (max-width: 450px){
     body{
         display: block;
     }
